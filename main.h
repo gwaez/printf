@@ -4,9 +4,6 @@
  * Project: Custom Printf Function for ALX Cohort 18
  */
  
-/*
-//Gw@3z&aya code
-*/
 #ifndef _printf_h
 #define _printf_h
 

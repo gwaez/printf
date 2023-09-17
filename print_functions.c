@@ -1,9 +1,8 @@
-
 /*
  * Authors: Ahmed Mahmoud (GitHub: gwaez), Aya Abdelaziz (GitHub: Ayaalasd1)
  * Project: Custom Printf Function for ALX Cohort 18
  */
-#include "main.h"
+ #include "main.h"
 
 /**
  * print_char - prints character
@@ -35,7 +34,7 @@ int print_char(va_list ap, params_t *params)
  */
 int print_int(va_list ap, params_t *params)
 {
-	/* Removed global variable: long l; */
+	long l;
 
 	if (params->l_modifier)
 		l = va_arg(ap, long);

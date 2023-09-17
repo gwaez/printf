@@ -1,9 +1,8 @@
-
 /*
  * Authors: Ahmed Mahmoud (GitHub: gwaez), Aya Abdelaziz (GitHub: Ayaalasd1)
  * Project: Custom Printf Function for ALX Cohort 18
  */
-#include "main.h"
+ #include "main.h"
 
 /**
  * init_params - clears struct fields and reset buf

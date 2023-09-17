@@ -3,8 +3,7 @@
  * Authors: Ahmed Mahmoud (GitHub: gwaez), Aya Abdelaziz (GitHub: Ayaalasd1)
  * Project: Custom Printf Function for ALX Cohort 18
  */
-#ifndef MAIN_H
-#define MAIN_H
+ 
 /*
 //Gw@3z&aya code
 */
@@ -120,4 +119,3 @@ int _printf(const char *format, ...);
 
 
 
-#endif /* MAIN_H */
